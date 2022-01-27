@@ -1,0 +1,15 @@
+<applicants>
+	<applicant sl.no.="23">
+		<name> John Carter </name>
+		<admission_date> 25/12/2015 </admission_date>
+	</applicant>	
+	<applicant sl.no.="29">
+		<name> Bob Marshal </name>
+		<admission_date> 13/01/1999 </admission_date>
+	</applicant>
+	<applicant sl.no.="35">
+		<name> Bob Marshal </name>
+		<admission_date> 13/01/1999 </admission_date>
+	</applicant>
+</applicants>
+	
